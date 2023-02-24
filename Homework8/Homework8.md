@@ -73,18 +73,18 @@ RETURNING*;
 DELETE FROM employee
 WHERE name = '404'
 RETURNING*;
-```SQL
 ```
+```SQL
 DELETE FROM employee
 WHERE id NOT BETWEEN 20 AND 45
 RETURNING*;
-```SQL
 ```
+```SQL
 DELETE FROM employee
 WHERE name LIKE 'M%a'
 RETURNING*;
-```SQL
 ```
+```SQL
 DELETE FROM employee
 WHERE id > 125
 RETURNING*;
