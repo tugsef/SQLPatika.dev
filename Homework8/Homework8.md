@@ -94,3 +94,4 @@ DELETE FROM employee
 WHERE id > 110 AND name LIKE 'A%'
 RETURNING*;
 ```
+> PROJE [Patika.dev SQL](https://app.patika.dev/sefad) dersi kapsamında hazırlanmıştır.
