@@ -1,6 +1,6 @@
 # Homework2
 
-1.QUERY
+*1.QUERY*
 
 film tablosunda bulunan tüm sütunlardaki verileri 
 replacement cost değeri 12.99 dan büyük eşit ve 16.99 küçük olma koşuluyla sıralayınız 
@@ -10,7 +10,7 @@ replacement cost değeri 12.99 dan büyük eşit ve 16.99 küçük olma koşuluy
     WHERE replacement_cost BETWEEN 12.99 AND 16.99;
 ```
 
-2.QUERY
+*2.QUERY*
 
 actor tablosunda bulunan first_name ve last_name sütunlardaki verileri 
 first_name 'Penelope' veya 'Nick' veya 'Ed' değerleri olması koşuluyla sıralayınız. 
@@ -20,7 +20,7 @@ first_name 'Penelope' veya 'Nick' veya 'Ed' değerleri olması koşuluyla sıral
     WHERE first_name IN('Penelope','Nick'); 
 ```
 
-3.QUERY
+*3.QUERY*
 
 film tablosunda bulunan tüm sütunlardaki verileri  
 rental_rate 0.99, 2.99, 4.99 
