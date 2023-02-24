@@ -38,3 +38,4 @@ rental_rate 2.99 olan verileri sıralayınız.
     SELECT * FROM film
     WHERE title LIKE 'C%' AND (length > 90) AND (rental_rate IN (2.99)); 
 ```
+> PROJE [Patika.dev SQL](https://app.patika.dev/sefad) dersi kapsamında hazırlanmıştır.
