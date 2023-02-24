@@ -9,7 +9,7 @@ country tablosunda bulunan country sütunundaki ülke isimlerinden 'A' karakteri
     WHERE country LIKE 'A%a';
 ```
 
-*2.QURY*
+*2.QUERY*
 
 country tablosunda bulunan country sütunundaki ülke isimlerinden 
 en az 6 karakterden oluşan ve sonu 'n' karakteri ile sonlananları sıralayınız.
