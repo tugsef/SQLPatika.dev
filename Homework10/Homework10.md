@@ -27,3 +27,8 @@
 	SELECT rental.rental_id , customer.first_name , customer.last_name FROM rental
 	FULL OUTER JOIN customer ON customer.customer_id = rental.customer_id;
 ```
+
+
+
+
+> PROJE [Patika.dev SQL](https://app.patika.dev/sefad) dersi kapsamında hazırlanmıştır.
