@@ -35,3 +35,4 @@
     SELECT COUNT(DISTINCT replacement_cost) FROM film
     WHERE length > 150;
 ```
+> PROJE [Patika.dev SQL](https://app.patika.dev/sefad) dersi kapsamında hazırlanmıştır.
