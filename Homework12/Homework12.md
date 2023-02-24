@@ -45,3 +45,4 @@
 	);
 
 ```
+> PROJE [Patika.dev SQL](https://app.patika.dev/sefad) dersi kapsamında hazırlanmıştır.
