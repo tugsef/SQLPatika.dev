@@ -34,3 +34,4 @@ sıralamada store_id 1 olmak koşuluyla ilk 4 veriyi sıralayınız.
     ORDER BY last_name DESC
     LIMIT 4 ;
 ```
+> PROJE [Patika.dev SQL](https://app.patika.dev/sefad) dersi kapsamında hazırlanmıştır.
