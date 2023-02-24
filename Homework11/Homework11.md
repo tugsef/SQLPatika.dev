@@ -64,3 +64,4 @@
 	(SELECT first_name FROM customer)
 	ORDER BY first_name;
 ```
+> PROJE [Patika.dev SQL](https://app.patika.dev/sefad) dersi kapsamında hazırlanmıştır.
