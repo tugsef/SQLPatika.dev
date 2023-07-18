@@ -1,7 +1,7 @@
 # patika.dev
 Patika.dev Educational Projects
 
-Repository Patika.dev tarafından ders içeriği oluşturulmuş Orta Seviye Java ile Web Development Patikası SQL dersi notlarımı ve ders kapsamındaki projelerimi içerir. 
+Course content was created by Repository Patika.dev. Intermediate Java and Web Development Pathway includes my SQL lecture notes and projects in the course. 
 
  
 
